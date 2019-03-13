@@ -1,1 +1,1 @@
-This is demo project for training
+This is demo project for training. made changes in the folder path.
